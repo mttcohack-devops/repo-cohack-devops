@@ -42,7 +42,7 @@ This hack will help you learn:
 
 ![CoHack App - Home Page](/images/CoHackApp-HomePage.jpg)
 
-[app-cohack-xyz.azurewebsites.net](https://app-cohack-xyz.azurewebsites.net)
+[app-cohack-uyxd5mnsmwape.azurewebsites.net](https://app-cohack-uyxd5mnsmwape.azurewebsites.net)
 
 #### Resources
 
